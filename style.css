@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.rslt{
+    height: 100;
+    width: 500px;
+    background-color: rgb(33, 71, 109);
+    border-radius: 10px;
+    border-style: groove;
+    color: white;
+    font-size: 50px;
+    align-items: center;
+}
+.elimants{
+    height: auto;
+    width: 500px;
+    background-color: rgb(33, 71, 109);
+    border-radius: 10px;
+    border-style: groove;
+}
+input[type=number]{
+    height: 80px;
+    width: 110px;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 50px;
+    padding: 10px;;
+    
+}
+input[type=submit]{
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
