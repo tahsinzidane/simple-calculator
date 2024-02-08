@@ -13,6 +13,7 @@
         <!-- <link href="jb5/imgs/calculator.png" rel="icon"> -->
 
         <link rel="stylesheet" href="style.css">
+        <link href="imgs/calculator.png" rel="icon">
 
 
         
