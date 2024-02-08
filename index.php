@@ -20,6 +20,8 @@
 
 </head>
 <body>
+  
+           
     <br><br><br><br><br><br>
     <center>
    
@@ -83,6 +85,12 @@
     </form>
 
     </center>  
+
+    <div class="footer">
+            <a href="https://github.com/tahsinzidane" target="_blank" rel="noopener noreferrer">    <img class="gh-logo" src="imgs/github-mark-white.png"> </a>
+            <a href="https://tahsinportfo.netlify.app/" target="_blank" rel="noopener noreferrer">   <img class="gh-logo" src="imgs/favicon.png">    </a> 
+            <a href="https://www.facebook.com/tahsinzidane" target="_blank" rel="noopener noreferrer">   <img class="gh-logo" src="imgs\Facebook_Logo_Primary.png">    </a> 
+    </div>
     
 </body>
 </html>
